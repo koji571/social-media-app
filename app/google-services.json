@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1054438964827",
+    "firebase_url": "https://mobile-app-ec02-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-app-ec02",
+    "storage_bucket": "mobile-app-ec02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054438964827:android:8f5ea67b5302a201efc97e",
+        "android_client_info": {
+          "package_name": "com.example.eco2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxiXSSIBW7xiI83kOwyt40cRidfPtCZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
